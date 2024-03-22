@@ -1,4 +1,5 @@
-![Snake animation](https://github.com/EnricoGazal/blob/output/github-contribution-grid-snake.svg)
+- name: generate-snake-game-from-github-contribution-grid
+uses: Platane/snk@v3.2.0
 
 
 
