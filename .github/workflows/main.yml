@@ -1,4 +1,4 @@
-name: Enrico Gazal
+name: EnricoGazal
 
 on:
   schedule: # execute every 12 hours
@@ -7,7 +7,7 @@ on:
 
 jobs:
   build:
-    name: Jobs to update datas
+    name: EnricoGazal
     runs-on: ubuntu-latest
     steps:
       # Snake Animation
