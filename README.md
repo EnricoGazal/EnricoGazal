@@ -1,8 +1,3 @@
-
-
-
-
-
 # Olá, me chamo Enrico Gazal! 
 ## Bem vindo ao meu perfil GitHub 👋
 
