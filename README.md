@@ -1,3 +1,5 @@
+![myAvatar 1](https://github.com/EnricoGazal/EnricoGazal/assets/59072910/823df731-5d4b-4868-8347-447e4eb67c30)
+
 # Olá, me chamo Enrico Gazal! 
 ## Bem vindo ao meu perfil GitHub 👋
 
