@@ -1,4 +1,4 @@
-![Snake animation](https://github.com/EnricoGazal/EnricoGazal/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/EnricoGazal/blob/output/github-contribution-grid-snake.svg)
 
 
 
