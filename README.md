@@ -1,5 +1,3 @@
-![FOTO_DE_PERFIL_PROFISSIONAL-removebg-preview](https://github.com/EnricoGazal/EnricoGazal/assets/59072910/7b807ebc-a514-47b1-bacd-2e0aa6beb0bf)
-
 # Olá, me chamo Enrico Gazal! 
 ## Bem vindo ao meu perfil GitHub 👋
 
